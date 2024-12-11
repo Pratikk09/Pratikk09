@@ -26,7 +26,7 @@
 <p>
   <img 
     align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikk09&show_icons=true&locale=en&layout=compact&bg_color=00000000&text_color=ffffff" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikk09&show_icons=true&locale=en&layout=compact&theme=default" 
     alt="pratikk09" 
   />
 </p>
@@ -34,7 +34,8 @@
 <p>&nbsp;
   <img 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=pratikk09&show_icons=true&locale=en&bg_color=00000000&text_color=ffffff" 
+    src="https://github-readme-stats.vercel.app/api?username=pratikk09&show_icons=true&locale=en&theme=default" 
     alt="pratikk09" 
   />
 </p>
+
