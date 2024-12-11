@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python,PowerBI and Machine Learning**
 
-- 📫 How to reach me **pratikmehta9361@gmail.com**
+- 📫 How to reach me pratikmehta9361@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
