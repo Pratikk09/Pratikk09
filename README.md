@@ -11,7 +11,7 @@
 
 - 💼 I'm a **React Native Developer** who loves building intuitive & beautiful mobile apps  
 - 📱 Currently working on **React Native, Redux, and UI/UX** components  
-- 🎯 Exploring **Power BI**, **Python**, and **Machine Learning** to blend mobile apps with data  
+- 🎯 Exploring **Power BI**, **Python**, to blend mobile apps with data  
 - 💡 Passionate about creating real-world solutions with seamless user experience  
 - 📍 From Udaipur, India 🇮🇳  
 
@@ -53,11 +53,7 @@
 ## 🤝 Let's Connect!
 
 - 📧 Email: [pratikmehta9361@gmail.com](mailto:pratikmehta9361@gmail.com)  
-- 🔗 GitHub: [@pratikk09](https://github.com/pratikk09)  
 - 💼 LinkedIn: [pratikm09](https://linkedin.com/in/pratikm09)  
-- 📸 Instagram: [pratik.m.09](https://instagram.com/pratik.m.09)  
+- 🔗 GitHub: [pratikk09](https://github.com/pratikk09)
 
----
-
-> **“Make it work, make it right, make it fast.” – Kent Beck**
 
