@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Pratik Mehta</h1>
-<h3 align="center">🚀 React Native Developer | UI Lover | Data Curious</h3>
+<h3 align="center">🚀 React Native Developer | Frontend Focused | Data Curious</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&width=435&lines=Building+Cross-platform+Apps;Crafting+Modern+Mobile+UI;Learning+Data+Science+on+the+Side" alt="Typing SVG" />
