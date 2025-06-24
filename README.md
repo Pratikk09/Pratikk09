@@ -53,7 +53,7 @@
 ## 🤝 Let's Connect!
 
 - 📧 Email: [pratikmehta9361@gmail.com](mailto:pratikmehta9361@gmail.com)  
-- 💼 LinkedIn: [pratikm09](https://linkedin.com/in/pratikm09)  
+- 💼 LinkedIn: [pratikm09](https://www.linkedin.com/in/pratikmehta09/)  
 - 🔗 GitHub: [pratikk09](https://github.com/pratikk09)
 
 
